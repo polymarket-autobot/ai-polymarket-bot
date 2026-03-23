@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://polymarket.com"><strong>Polymarket.com</strong></a> •
-  <a href="https://polymarket.com"><strong>justaibot.io</strong></a> •  
+  <a href="https://justaibot.io"><strong>justaibot.io</strong></a> •  
   <a href="https://t.me/polymarket_automatic_bot/14">Download latest version (Telegram)</a>
 </p>
 
